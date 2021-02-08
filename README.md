@@ -2,6 +2,8 @@
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+Installs all required node modules.
 
 ### `npm start`
 

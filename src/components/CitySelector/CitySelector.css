@@ -1,0 +1,13 @@
+
+.CitySelector span{
+    display: flex;
+    flex-direction: row;
+    min-height: 30px;
+}
+.CitySelector select{
+    margin: 10px 0;
+    width: 200px;
+    padding: 4px;
+    border: 1px solid #f7f7f7;
+    outline: none;
+}

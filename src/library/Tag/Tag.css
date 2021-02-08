@@ -1,0 +1,11 @@
+.Tag{
+    display: flex;
+    width: fit-content;
+    padding: 5px 0 5px 10px;
+    margin-right: 10px;
+    background-color: #f7f7f7;
+}
+.Tag button{
+    border: none;
+    background-color: transparent;
+}

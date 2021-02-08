@@ -1,0 +1,33 @@
+.WeatherTable table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.WeatherTable table, .WeatherTable th, .WeatherTable td {
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+
+}
+.WeatherTable tr {
+    height: 35px
+}
+.WeatherTable th{
+    background-color: #f7f7f7;
+}
+.WeatherTable td{
+    text-align: center;
+}
+.WeatherTable button{
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    margin: 0 auto;
+}
+.WeatherTable img{
+    display: block;
+    height: 18px;
+    width: 18px;
+
+}
